@@ -1,0 +1,17 @@
+{
+	"menu_id" : "BTA_menu_id",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "BTA_menu",
+	"description" : "BTA_menu_desc",
+	"items" : [
+		{
+		"type" : "toggle",
+		"id" : "winters_Toggle",
+		"title" : "Winters_Toggle_title",
+		"description" : "Winters_Toggle_desc",
+		"callback": "callback_Winters_Toggle",
+		"value" : "winters",
+		"default_value" : "false",
+		}
+	]
+}
