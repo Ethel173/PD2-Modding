@@ -1,0 +1,6 @@
+{
+	"BTA_menu" : "Bad Times Ahead",
+	"BTA_menu_desc" : "Because if i wanted a skill overhaul i would install a skill overhaul",
+	"Winters_Toggle_title" : "Winters Toggle",
+	"Winters_Toggle_desc" : "Turn on/off the changes to the Captain",
+}
